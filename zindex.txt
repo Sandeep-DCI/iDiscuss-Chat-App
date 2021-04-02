@@ -1,0 +1,4 @@
+we need to install node js.    $install node js
+create node folder, open terminal and cd into into
+then $npm init
+     $npm i socket.io  (to install the socket)
